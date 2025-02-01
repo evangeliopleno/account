@@ -1,11 +1,11 @@
 {
-    "name": "brasil2025",
-    "short_name": "brasil2025",
+    "name": "church_account",
+    "short_name": "church_account",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "IEP 2025 Brasil",
+    "description": "Church Account",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
